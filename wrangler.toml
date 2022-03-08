@@ -1,0 +1,12 @@
+name = "channels-photo-transcoder"
+type = "webpack"
+account_id = ""
+zone_id = ""
+
+routes = [
+  ""
+]
+
+[vars]
+SD_USERNAME = ""
+SD_PASSWORD = ""

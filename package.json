@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "channels-photo-transcode",
+  "version": "1.0.0",
+  "description": "A cloudflare worker that proxies schedulesdirect.org image requests",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write --no-semi --single-quote --print-width 100 --trailing-comma es5 '**/*.{js,css,json,md}'"
+  },
+  "author": "Steven Kreitzer <skre@skre.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
